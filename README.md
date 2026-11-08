@@ -20,9 +20,9 @@ When holding a block which has a light level or has fullbright, it will make a l
 
 ### Compiling
 
-`x86_64-w64-mingw32-gcc TestPlugin.c -o TestPlugin.dll -s -shared -L . -lClassiCube`
+`x86_64-w64-mingw32-gcc DynamicLighting.c -o dynamiclight-win64.dll -s -shared -L . -lClassiCube`
 
-Then put `TestPlugin.dll` into your game's `plugins` folder. Done.
+Then put `dynamiclight-win64.dll` into your game's `plugins` folder. Done.
 
 The only currect builds are for windows 64 bit.
 The Releases were built on Windows 7 SP1
