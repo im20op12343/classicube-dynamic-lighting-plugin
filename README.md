@@ -1,6 +1,8 @@
 # classicube-dynamic-lighting-plugin
 Dynamic Lighting for classicube
 
+i jst wanna say, FUCK NA2 AND ITS PLAYERS
+
 Adds dynamic lighting for classicube.
 When holding a block which has a light level or has fullbright, it will make a light around you.
 
